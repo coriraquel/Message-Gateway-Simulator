@@ -30,10 +30,10 @@ By completing this project, I will demonstrate an understanding of systems think
 4. How could automated testing be scaled to handle real-time message streams? 
 
 ## Timeline: 
-Phase 1: Implementation of Receiver, Translator, Storahe, and Transmitter modules. 
-Phase 2: Add unit tests and documentation (requirements + architecture diagram) 
-Phase 3: Build an integration pipeline and add GitHub Actions for testing 
-Phase 4: Expand with stretch goal features (REST API, hardware integration, error handling) 
+Phase 1: Implementation of Receiver, Translator, Storahe, and Transmitter modules. <br>
+Phase 2: Add unit tests and documentation (requirements + architecture diagram) <br>
+Phase 3: Build an integration pipeline and add GitHub Actions for testing <br>
+Phase 4: Expand with stretch goal features (REST API, hardware integration, error handling) <br>
 
 ## License: 
 This project is licensed under the MIT License. See the LICENSE file for details.
